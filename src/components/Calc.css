@@ -1,0 +1,64 @@
+*{box-sizing: border-box;}
+.skills{
+    
+    text-align: center;
+    list-style: none;  
+    list-style-position: outside;    
+    margin-left: 220px; 
+    margin-right: 0px;
+    padding: 0;
+    left: 150px;
+    margin-top: 0px;
+}
+
+.input{
+  color: chartreuse;
+  background-color: #222;
+  flex: 2;
+  width: 50px;
+  margin-left: 220px;
+  position: sticky;
+}
+
+.img{    
+  text-align: right;
+  list-style: none;  
+  list-style-position: outside;    
+  margin-left: 40px; 
+  margin-right: 15px;
+  left: 283px;
+  bottom: 48px;
+  position:absolute;
+}
+.select{    
+  text-align: right;
+  list-style: none;  
+  list-style-position: outside;    
+  margin-left: 40px; 
+  margin-right: 15px;
+  left: 270px;
+  bottom: 130px;
+  position:absolute;
+}
+.lselector{    
+  text-align: center;
+  list-style: none;  
+  list-style-position: outside;    
+  margin-left: 40px; 
+  margin-right: 15px;
+  left: 320px;
+  bottom: 410px;
+  position:absolute;
+  width: fit-content;
+  border: #222 1px transparent;
+}
+.footer{
+  text-align: center;
+  list-style: none;  
+  list-style-position: outside;    
+  margin-left: 10px; 
+  margin-right: 15px;
+  left: 10px;
+  bottom: 0px;
+  position:absolute;
+}
